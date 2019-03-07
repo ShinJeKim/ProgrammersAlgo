@@ -12,7 +12,6 @@ public class H_Index {
 
 	public static int solution(int[] citations) {
 		int answer = 0;
-		int count = 0;
 
 		Arrays.sort(citations);
 		int[] ascend = new int[citations.length];
