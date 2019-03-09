@@ -11,6 +11,8 @@ public class PrimeNumber{
 
 	public static int solution(String numbers) {
 		int answer = 0;
+		
+		
 		return answer;
 	}
 }
